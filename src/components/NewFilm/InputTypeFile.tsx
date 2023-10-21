@@ -3,7 +3,7 @@ import { Button, Typography } from "@mui/material";
 
 import defaultCover from "../../assets/images/plug.jpeg";
 import s from "./InputTypeFile.module.scss";
-import { convertFileToBase64 } from "../utils/conver-file-to-base64.ts";
+import { convertFileToBase64 } from "../../utils/conver-file-to-base64.ts";
 
 type PropsType = {
   title: string;

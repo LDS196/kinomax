@@ -8,8 +8,8 @@ import {
 } from "../../app/app.select.ts";
 import FilmCard from "../FilmCard/FilmCard.tsx";
 import Settings from "../Settings/Settings.tsx";
-import { sortByNameAndDirection } from "../utils/sortByNameAndDirection.ts";
-import { filterFilmsByDuration } from "../utils/filterByDuration.ts";
+import { sortByNameAndDirection } from "../../utils/sortByNameAndDirection.ts";
+import { filterFilmsByDuration } from "../../utils/filterByDuration.ts";
 import { useMemo } from "react";
 
 const Films = () => {

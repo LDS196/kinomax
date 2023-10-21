@@ -1,4 +1,4 @@
-import { FilmType } from "../../data/films.ts";
+import { FilmType } from "../data/films.ts";
 
 export function sortByNameAndDirection(
   array: FilmType[],
