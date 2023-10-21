@@ -12,17 +12,17 @@
 
 Statemanager: **Redux Toolkit**
 
-Routing: React router dom
+Routing: **React router dom**
 
-Processing data from: React Hook Form
+Processing data from: **React Hook Form**
 
-Saving application data: Redux Persist
+Saving application data: **Redux Persist**
 
-UI/style: MUI, SCSS
+UI/style: **MUI, SCSS**
 
-Optimization app: UseMemo
+Optimization app: **UseMemo**
 
-Testing: Jest
+Testing: **Jest**
 
 
 
