@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 ![VITE](https://img.shields.io/badge/-Vite-99d6f8?logo=webpack&logoColor=black)
 
-Statemanager: Redux Toolkit
+Statemanager: **Redux Toolkit**
 
 Routing: React router dom
 
