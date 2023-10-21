@@ -5,18 +5,24 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-pink)
 ![MUI](https://img.shields.io/badge/-MUI-61daf8?logo=react&logoColor=blue)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 ![VITE](https://img.shields.io/badge/-Vite-99d6f8?logo=webpack&logoColor=black)
 
 Statemanager: Redux Toolkit
+
 Routing: React router dom
+
 Processing data from: React Hook Form
+
 Saving application data: Redux Persist
+
 UI/style: MUI, SCSS
+
 Optimization app: UseMemo
+
+Testing: Jest
 
 
 
