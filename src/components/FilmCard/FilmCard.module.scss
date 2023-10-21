@@ -1,0 +1,60 @@
+.card {
+  display: flex;
+  gap: 0 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+
+  &:hover {
+    background-color: lightgray;
+  }
+
+  @media screen and (max-width: 430px) {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .img {
+    img {
+      width: 150px;
+      height: 225px;
+    }
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px 0;
+
+    .title {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .description {
+      overflow: hidden;
+      max-width: 50vw;
+      width: 100%;
+      font-size: 14px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      transition: all 0.9s;
+    }
+
+    .description:hover {
+      max-width: none;
+      overflow: inherit;
+      text-overflow: inherit;
+      white-space: inherit;
+      height: auto;
+    }
+
+    .rating {
+      display: flex;
+      align-items: end;
+      gap: 0 10px;
+    }
+  }
+}
