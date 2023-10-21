@@ -1,4 +1,4 @@
-## :seedling: <a href="https://kinomax.vercel.app/" target="_blank">Kinomax</a>
+## :seedling: <a href="https://kinomax.vercel.app/" target="_blank">Kinomax</a>  https://kinomax.vercel.app/
 ## Технологии
 
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
