@@ -1,6 +1,7 @@
 ## :seedling: <a href="https://kinomax.vercel.app/" target="_blank">Kinomax</a>  https://kinomax.vercel.app/
 
  Верстка, дизайн и адаптив выполнен минимальном базовом варианте.
+ В данном приложении пользователь может добавлять описание фильма и картинку-постер к фильму, а так же фильтровать и сортировать фильмы, искать фильм по названию.
 ## Технологии
 
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
