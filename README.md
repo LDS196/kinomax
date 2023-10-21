@@ -11,6 +11,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 ![VITE](https://img.shields.io/badge/-Vite-99d6f8?logo=webpack&logoColor=black)
 
+Statemanager: Redux Toolkit
+Routing: React router dom
+Processing data from: React Hook Form
+Saving application data: Redux Persist
+UI/style: MUI, SCSS
+Optimization app: UseMemo
+
+
+
 Clone repositories:
 
 ```
